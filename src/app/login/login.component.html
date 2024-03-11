@@ -1,0 +1,20 @@
+<div class="container">
+    <form [formGroup]="login" (ngSubmit)="logindata(login)" class="form-box">
+        <h3>login</h3>
+        <div class="form-group">
+            <label>user name</label>
+            <input type="text" formControlName="fname" class="form-control mb-3 mt-3" placeholder="enter email"/>
+        </div>
+
+        <div class="form-group">
+            <label>password</label>
+            <input type="password" formControlName="password" class="form-control mb-3 mt-3" placeholder="enter password"/>
+        </div>
+
+        <span>create new account <a [routerLink]="['/singup']">signup</a></span>
+        <br/>
+        <button type="submit" class="btn btn-success">login</button>
+
+    </form>
+    <router-outlet></router-outlet>
+</div>

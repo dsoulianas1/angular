@@ -1,0 +1,44 @@
+{
+  "singup": [
+    {
+      "id": "4647",
+      "fname": "anas",
+      "lname": "dsouli",
+      "email": "dsoulianas1@gmail.com",
+      "phone": "29780529",
+      "password": "anas123"
+    },
+    {
+      "id": "490d",
+      "fname": "safa",
+      "lname": "jouini",
+      "email": "safajouini10@gmail.com",
+      "phone": "50128829",
+      "password": "1234"
+    },
+    {
+      "id": "2510",
+      "fname": "ons",
+      "lname": "dsouli",
+      "email": "ons@gmail.com",
+      "phone": "19127828",
+      "password": "ons"
+    },
+    {
+      "id": "14f1",
+      "fname": "lina",
+      "lname": "mesrati",
+      "email": "lina@gmail.com",
+      "phone": "12345654",
+      "password": "lina"
+    },
+    {
+      "id": "588d",
+      "fname": "amine",
+      "lname": "dhahbi",
+      "email": "amine@gmail.com",
+      "phone": "1234",
+      "password": "amine"
+    }
+  ]
+}
